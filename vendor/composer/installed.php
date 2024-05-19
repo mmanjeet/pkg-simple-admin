@@ -5,7 +5,7 @@
         'type' => 'libbrary',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'a9794074d94b463f6edd57ea1372487221a4189e',
+        'reference' => 'fbd80cb5827a51f09499a748147663419f2f6dc1',
         'name' => 'cyberzet/single-admin',
         'dev' => true,
     ),
@@ -34,7 +34,7 @@
             'type' => 'libbrary',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'a9794074d94b463f6edd57ea1372487221a4189e',
+            'reference' => 'fbd80cb5827a51f09499a748147663419f2f6dc1',
             'dev_requirement' => false,
         ),
         'doctrine/inflector' => array(
