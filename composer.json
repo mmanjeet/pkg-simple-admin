@@ -15,7 +15,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Cyberzet\\SingleAdmin\\AdminServiceProvider\\"
+                "Cyberzet\\SingleAdmin\\AdminServiceProvider"
             ]
         }
     }
