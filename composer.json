@@ -11,5 +11,12 @@
             "Cyberzet\\SingleAdmin\\": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Cyberzet\\SingleAdmin\\AdminServiceProvider\\"
+            ]
+        }
+    }
 }
