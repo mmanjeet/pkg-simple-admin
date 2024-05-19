@@ -1,0 +1,15 @@
+{
+    "name": "cyberzet/single-admin",
+    "description": "This is simple auth admin using breeze authentication.",
+    "type": "libbrary",
+    "require": {
+        "laravel/breeze": "^1.29.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cyberzet\\SingleAdmin\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
